@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_material_kit_react=self.webpackChunk_minimal_material_kit_react||[]).push([[9678],{19678:function(a,e,i){i.r(e);var t=i(80865);e.default=t.g}}]);
+//# sourceMappingURL=9678.9be27583.chunk.js.map
