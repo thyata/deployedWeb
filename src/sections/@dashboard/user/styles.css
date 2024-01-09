@@ -1,0 +1,39 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2%;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 30%;
+    border-right: 2px solid white;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.right{
+    width: 100%;
+}
+
+.btn-routes{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.plus-sign{
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #00AB55;
+}

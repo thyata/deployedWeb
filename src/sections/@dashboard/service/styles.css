@@ -1,0 +1,8 @@
+.plus-sign{
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #00AB55;
+}
